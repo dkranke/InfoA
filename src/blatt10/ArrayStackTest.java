@@ -1,3 +1,5 @@
+package blatt10;
+
 import AlgoTools.IO;
 
 /**

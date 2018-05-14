@@ -1,3 +1,5 @@
+package blatt10;
+
 /**
  * Ein Stack, der mit Verweisen implementiert ist, ähnlich einer Linked List.
  */

@@ -1,3 +1,5 @@
+package blatt09;
+
 import AlgoTools.IO;
 
 // (TODO Klassenname passt nicht zur genutzen Sprache)

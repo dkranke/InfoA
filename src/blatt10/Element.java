@@ -1,3 +1,5 @@
+package blatt10;
+
 /**
  * Diese Klasse repräsentiert ein Element für alle verketteten ADTs, wie List.
  */

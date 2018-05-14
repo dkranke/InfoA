@@ -1,3 +1,5 @@
+package blatt11;
+
 public class IntArrStack {
 
     // ADT-Array für den ArrayStack

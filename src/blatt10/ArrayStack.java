@@ -1,3 +1,5 @@
+package blatt10;
+
 public class ArrayStack {
 
     // ADT-Array für den ArrayStack

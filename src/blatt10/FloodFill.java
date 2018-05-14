@@ -1,4 +1,4 @@
-import AlgoTools.IO;
+package blatt10;
 
 public class FloodFill {
 
@@ -17,7 +17,6 @@ public class FloodFill {
         while (!pixel.isEmpty()) {
             // Rufe Koordinaten aus dem Queue ab
             Coord coord = (Coord) pixel.dequeue();
-            IO.println(ASCIIBildTest.inst.getObjectSize(coord));
             System.exit(0);
             x = coord.x();
             y = coord.y();

@@ -1,3 +1,5 @@
+package blatt10;
+
 import AlgoTools.IO;
 
 // System zum testen ob die Klassen ASCIIPicture und FloodFill so funktionieren wie sie sollen

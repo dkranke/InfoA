@@ -1,3 +1,5 @@
+package blatt10;
+
 /**
  * Eine Queue die mit Verweisen implementiert ist, ähnlich einer Linked List.
  */
