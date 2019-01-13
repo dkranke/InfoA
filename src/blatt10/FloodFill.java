@@ -17,7 +17,6 @@ public class FloodFill {
         while (!pixel.isEmpty()) {
             // Rufe Koordinaten aus dem Queue ab
             Coord coord = (Coord) pixel.dequeue();
-            System.exit(0);
             x = coord.x();
             y = coord.y();
 
